@@ -1,0 +1,5 @@
+DB PostgreSQL
+
+Nombre DB: login_herramienta_programacion
+Nombre tabla: usuarios
+Campos tabla: str nombre, str apellido, str email, str password, str genero, str eps
